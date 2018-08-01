@@ -9,6 +9,10 @@
             android:icon="@drawable/ic_fitness"
             android:title="Fitness" />
         <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_log"
+            android:title="Log" />
+        <item
             android:id="@+id/nav_gallery"
             android:icon="@drawable/ic_navigation"
             android:title="Navigation" />
@@ -16,10 +20,7 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_settings"
             android:title="Settings" />
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
+
     </group>
 
     <item android:title="Communicate">
